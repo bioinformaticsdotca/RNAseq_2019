@@ -28,7 +28,7 @@ Instructions to setup your laptop can be found [here](https://bioinformaticsdotc
 
 ## Pre-workshop Tutorials
 
-Pre-readings and pre-work can be found here [here](https://bioinformaticsdotca.github.io/BiCG_2019_prework).  
+Pre-readings and pre-work can be found here [here](https://bioinformaticsdotca.github.io/RNAseq_2019_prework).  
 It is in your best interest to complete these before the workshop.
 
 ***
@@ -55,7 +55,7 @@ Coming soon
 
 [Lab Practical: Connecting to the Cloud](http://bioinformaticsdotca.github.io/AWS_setup)
 
-* We have set up instances on the Amazon cloud - one for each student. In order to log in to your instance, you will need a security certificate. If you plan on using Linux or Mac OS X, please download [this certificate](http://main.oicrcbw.ca/private/CBWNY.pem). Otherwise if you plan on using Windows (with Putty), please download [this certificate](http://main.oicrcbw.ca/private/CBWNY.ppk).  
+* We have set up instances on the Amazon cloud - one for each student. In order to log in to your instance, you will need a security certificate. If you plan on using Linux or Mac OS X, please download [this certificate](). Otherwise if you plan on using Windows (with Putty), please download [this certificate]().  
 
 ## Module 2: Introduction to RNA Sequencing Analysis
 
