@@ -18,7 +18,7 @@ home: https://bioinformaticsdotca.github.io/RNAseq_2019
 | 10:30 | <font color="purple">Module 2: Introduction to RNA Sequencing (Malachi)</font> | 10:30 |  <font color="blue">Module 4 Lab</font> | 10:30 |  <font color="blue">Module 7 Lab</font> |  
 | 12:00 | <font color="green">*Lunch*</font> | 12:00 | <font color="green">*Lunch*</font> | 12:00 | <font color="green">*Lunch*</font> |  
 | 1:00 |  <font color="blue">Module 2 Lab</font> | 1:00 |  <font color="blue">Module 5 Reference Free Alignment (Obi)</font> | 1:00 | <font color="purple">Module 8: Functional Annotation and Analysis of Transcripts (Brian)</font> |  
-| | 2:00 | <font color="purple">Module 6: Isoform Discovery and Alternative Splicing (Obi)</font> | |
+| | | 2:00 | <font color="purple">Module 6: Isoform Discovery and Alternative Splicing (Obi)</font> | |
 | 3:00 | <font color="green">*Coffee Break*</font> | 3:00 | <font color="green">*Coffee Break*</font> | 2:30 | <font color="green">*Coffee Break*</font> |  
 | 3:30 |  <font color="purple">Module 3: RNA-Seq Alignment and Visualization (Malachi)</font> | 3:30 | <font color="purple">Module 6 Lab (Obi)</font> | 3:00 | <font color="blue">Module 8 Lab</font> |  
 | 5:00 | <font color="green">*Dinner Break*</font> | 5:00 | <font color="green">*Dinner Break*</font> | 5:00 | <font color="purple">Survey and Closing Remarks</font> |  
