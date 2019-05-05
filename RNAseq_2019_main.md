@@ -18,7 +18,7 @@ The course schedule can be found [here](https://bioinformaticsdotca.github.io/RN
 
 We are using Slack for discussion. Join the Slack channel.
 
-CLASS MATERIALS: The full course notes are available as a [single PDF]().  
+**CLASS MATERIALS:** The full course notes are available as a [single PDF]().  
 
 # Pre-Workshop Preparation <a id="preworkshop"></a>
 
