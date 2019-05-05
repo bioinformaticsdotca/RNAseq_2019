@@ -21,5 +21,5 @@ home: https://bioinformaticsdotca.github.io/RNAseq_2019
 | | 2:00 | <font color="purple">Module 6: Isoform Discovery and Alternative Splicing (Obi)</font> | |
 | 3:00 | <font color="green">*Coffee Break*</font> | 3:00 | <font color="green">*Coffee Break*</font> | 2:30 | <font color="green">*Coffee Break*</font> |  
 | 3:30 |  <font color="purple">Module 3: RNA-Seq Alignment and Visualization (Malachi)</font> | 3:30 | <font color="purple">Module 6 Lab (Obi)</font> | 3:00 | <font color="blue">Module 8 Lab</font> |  
-| 5:00 | <font color="green">*Break*</font> | 5:00 | <font color="green">*Break*</font> | 5:00 | <font color="purple">Survey and Closing Remarks (Ann)</font> |  
+| 5:00 | <font color="green">*Dinner Break*</font> | 5:00 | <font color="green">*Dinner Break*</font> | 5:00 | <font color="purple">Survey and Closing Remarks</font> |  
 | 5:30 | **Integrated Assignment** | 5:30 | **Integrated Assignment** | | | 
