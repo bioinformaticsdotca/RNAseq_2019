@@ -1,12 +1,12 @@
 ---
 layout: tutorial_page
-permalink: /rnaseq_2018_tutorial6
+permalink: /RNAseq_2019_Module8_lab
 title: RNA-Seq
 header1: Workshop Pages for Students
-header2: Informatics for RNA-Seq Analysis
+header2: Informatics for RNA-Seq Analysis 2019
 image: /site_images/CBW_RNA_seq_icon.jpg
-home: https://bioinformaticsdotca.github.io/rnaseq_2018
-description: De Novo Assembly-Afternoon
+home: https://bioinformaticsdotca.github.io/RNAseq_2019
+description: RNAseq 2019 - Module 8 Lab - De Novo Assembly
 author: Brian Haas
 modified: May 29th, 2018
 ---
