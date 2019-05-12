@@ -174,7 +174,7 @@ For additional resources, tutorials, future directions, and more please refer to
 
 *<font color="#827e9c">Brian Haas</font>* 
 
-[Lecture](https://drive.google.com/open?id=1b1opRzV_IK4QSJHXo-B-iQvBFenV_23h)  
+[Lecture]()  
 
 [Lab practical](https://bioinformaticsdotca.github.io/rnaseq_2018_tutorial6)  
 
