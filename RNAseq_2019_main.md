@@ -55,7 +55,9 @@ Coming soon
 
 [Lab Practical: Connecting to the Cloud](http://bioinformaticsdotca.github.io/AWS_setup)
 
-* We have set up instances on the Amazon cloud - one for each student. In order to log in to your instance, you will need a security certificate. If you plan on using Linux or Mac OS X, please download [this certificate](). Otherwise if you plan on using Windows (with Putty), please download [this certificate]().  
+* We have set up instances on the Amazon cloud - one for each student. In order to log in to your instance, you will need a security certificate. The certificates will be uploaded to Slack. If you plan on using Linux or Mac OS X, Please use CBWRNA.pem; Otherwise if you plan on using Windows (with Putty), please use CBWRNA.ppk.
+
+You can also download from here. [Mac/Linux certificate](http://main.oicrcbw.ca/private/CBWRNA.pem), [Windows certificate](http://main.oicrcbw.ca/private/CBWRNA.ppk).  
 
 ## Module 2: Introduction to RNA Sequencing Analysis
 
