@@ -18,7 +18,7 @@ home: https://bioinformaticsdotca.github.io/RNAseq_2019
 
 2) **UNIX Preparation tutorials**: You are expected to be familiar with basic command line usage before the workshop. If you are unfamiliar with **the command line**, here are some suggested tutorials:   
 
-* [UNIX Bootcamp](https://github.com/griffithlab/rnaseq_tutorial/wiki/Unix-Bootcamp)
+* [UNIX Bootcamp](https://rnabio.org/module-00-setup/0000/06/01/Unix/)
 * [UNIX Bootcamp alternative](http://rik.smith-unna.com/command_line_bootcamp/?id=9xnbkx6eaof) 
 * [Unix Cheat sheet](http://www.rain.org/~mkummel/unix.html) 
 
