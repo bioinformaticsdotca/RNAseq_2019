@@ -41,7 +41,7 @@ Coming soon
 
 # Day 1 <a id="day1"></a>
 
-**Day 1 and Day 2 refer to content in the [RNA-Seq wiki](https://github.com/griffithlab/rnaseq_tutorial/wiki).**
+**Day 1 and Day 2 refer to content on [rnabio.org](https://rnabio.org/).**
 
 ##  Welcome 
 
@@ -69,17 +69,17 @@ You can also download from here. [Mac/Linux certificate](http://main.oicrcbw.ca/
 
 [Lab practical]()
 
-  [Installation](https://github.com/griffithlab/rnaseq_tutorial/wiki/Installation)
+  [Installation](https://rnabio.org/module-00-setup/0000/08/01/Installation/)
   
-  [Reference Genomes](https://github.com/griffithlab/rnaseq_tutorial/wiki/Reference-Genome)
+  [Reference Genomes](https://rnabio.org/module-01-inputs/0001/02/01/Reference_Genomes/)
   
-  [Annotations](https://github.com/griffithlab/rnaseq_tutorial/wiki/Annotation)
+  [Annotations](https://rnabio.org/module-01-inputs/0001/03/01/Annotations/)
   
-  [Indexing](https://github.com/griffithlab/rnaseq_tutorial/wiki/Indexing)
+  [Indexing](https://rnabio.org/module-01-inputs/0001/04/01/Indexing/)
   
-  [Data](https://github.com/griffithlab/rnaseq_tutorial/wiki/RNAseq-Data)
+  [Data](https://rnabio.org/module-01-inputs/0001/05/01/RNAseq_Data/)
   
-  [Data QC](https://github.com/griffithlab/rnaseq_tutorial/wiki/PreAlignment-QC)
+  [Data QC](https://rnabio.org/module-01-inputs/0001/06/01/Pre-alignment_QC/)
 
 
 ## Module 3: RNA-seq Alignment and Visualization
@@ -94,24 +94,24 @@ You can also download from here. [Mac/Linux certificate](http://main.oicrcbw.ca/
 
 [Lab Practical](https://drive.google.com/open?id=1CgEtVNY-B3-p0j-4CjGNvU0iwFetZlgE)
 
-  [Adapter Trim](https://github.com/griffithlab/rnaseq_tutorial/wiki/Adapter-Trim)
+  [Adapter Trim](https://rnabio.org/module-02-alignment/0002/02/01/Adapter_Trim/)
   
-  [Alignment](https://github.com/griffithlab/rnaseq_tutorial/wiki/Alignment)
+  [Alignment](https://rnabio.org/module-02-alignment/0002/03/01/Alignment/)
   
-  [IGV](https://github.com/griffithlab/rnaseq_tutorial/wiki/IGV-Tutorial)
+  [IGV](https://rnabio.org/module-02-alignment/0002/04/01/IGV/)
 
-  [Alignment Visualization](https://github.com/griffithlab/rnaseq_tutorial/wiki/PostAlignment-Visualization)
+  [Alignment Visualization](https://rnabio.org/module-02-alignment/0002/05/01/Alignment_Visualization/)
   
-  [Alignment QC](https://github.com/griffithlab/rnaseq_tutorial/wiki/PostAlignment-QC)
+  [Alignment QC](https://rnabio.org/module-02-alignment/0002/06/01/Alignment_QC/)
 
 
 ## Integrated Assignment
 
 *<font color="827e9c">Megan Richters and Kelsy Cotto</font>*
 
-[Assignment Questions](https://github.com/griffithlab/rnaseq_tutorial/wiki/Integrated-Assignment)
+[Assignment Questions](https://rnabio.org/module-08-appendix/0008/06/01/Integrated_Assignment/)
 
-[Assignment Answers](https://github.com/griffithlab/rnaseq_tutorial/wiki/Integrated-Assignment-Answers)  
+[Assignment Answers](https://rnabio.org/module-08-appendix/0008/07/01/Integrated_Assignment_Answers/)  
 
 
 ***
@@ -129,17 +129,17 @@ You can also download from here. [Mac/Linux certificate](http://main.oicrcbw.ca/
 
 [Lab Practical]()
 
- [Expression](https://github.com/griffithlab/rnaseq_tutorial/wiki/Expression)
+ [Expression](https://rnabio.org/module-03-expression/0003/02/01/Expression/)
  
- [Differential Expression](https://github.com/griffithlab/rnaseq_tutorial/wiki/Differential-Expression)
+ [Differential Expression](https://rnabio.org/module-03-expression/0003/03/01/Differential_Expression/)
  
- [DE Visualization](https://github.com/griffithlab/rnaseq_tutorial/wiki/DE-Visualization)
+ [DE Visualization](https://rnabio.org/module-03-expression/0003/04/01/DE_Visualization/)
 
 ## Module 5: Reference Free Alignment
 
 *<font color="#827e9c">Obi Griffith</font>* 
 
-[Kallisto](https://github.com/griffithlab/rnaseq_tutorial/wiki/Kallisto)  
+[Kallisto](https://rnabio.org/module-04-kallisto/0004/02/01/Alignment_Free_Kallisto/)  
 
 ## Module 6: Isoform Discovery and Alternative Expression
 
@@ -149,9 +149,9 @@ You can also download from here. [Mac/Linux certificate](http://main.oicrcbw.ca/
 
 ## Integrated Assignment
 
-[Assignment Questions](https://github.com/griffithlab/rnaseq_tutorial/wiki/Integrated-Assignment)  
+[Assignment Questions](https://rnabio.org/module-08-appendix/0008/06/01/Integrated_Assignment/)  
 
-[Assignment Answers](https://github.com/griffithlab/rnaseq_tutorial/wiki/Integrated-Assignment-Answers)  
+[Assignment Answers](https://rnabio.org/module-08-appendix/0008/07/01/Integrated_Assignment_Answers/)  
 
 ## Keeping Up-to-date with RNA-Seq Analysis Developments
 
