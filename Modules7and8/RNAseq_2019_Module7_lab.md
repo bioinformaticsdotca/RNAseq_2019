@@ -24,7 +24,7 @@ The data set that we'll be leveraging for this application are human RNA-Seq dat
 
 The data sets we'll use for genome-guided assembly are located at:
 
-    % ls ~/CourseData/RNA_data/trinity_trinotate_tutorial_2018/mini_humanX/
+    % ls ~/CourseData/RNA_data/trinity_trinotate_tutorial/mini_humanX/
 
 .
 
@@ -42,15 +42,15 @@ For convenience, we'll be making use of certain environmental variables, such as
 
 To configure your environment, simply run the following command:
 
-    %  source ~/CourseData/RNA_data/trinity_trinotate_tutorial_2018/environment.txt
+    %  source ~/CourseData/RNA_data/trinity_trinotate_tutorial/environment.txt
 
 Now, if you type
 
     %  env | grep TRINITY
-
+    
 you should see:
 
-    TRINITY_HOME=/usr/local/trinityrnaseq-Trinity-v2.6.5/
+    TRINITY_HOME=/usr/local/trinityrnaseq-Trinity-v2.8.4/
 
 
 ## Setting up your workspace
@@ -65,15 +65,7 @@ In your workspace directory, create a new workspace called 'workspace_GG' (with 
 
 Create symbolic links (shortcuts) to our reference genome, annotation, and read files:
 
-    %  ln -s ~/CourseData/RNA_data/trinity_trinotate_tutorial_2018/mini_humanX/* .
-
-
-Verify that the links show up in your workspace:
-
-    lrwxrwxrwx 1 transcriptomics workshop 82 Sep  9 01:43 reads_2.fq.gz -> /home/transcriptomics/workshop_materials/transcriptomics/mini_humanX/reads_2.fq.gz
-    lrwxrwxrwx 1 transcriptomics workshop 82 Sep  9 01:43 reads_1.fq.gz -> /home/transcriptomics/workshop_materials/transcriptomics/mini_humanX/reads_1.fq.gz
-    lrwxrwxrwx 1 transcriptomics workshop 83 Sep  9 01:43 minigenome.gtf -> /home/transcriptomics/workshop_materials/transcriptomics/mini_humanX/minigenome.gtf
-    lrwxrwxrwx 1 transcriptomics workshop 82 Sep  9 01:43 minigenome.fa -> /home/transcriptomics/workshop_materials/transcriptomics/mini_humanX/minigenome.fa
+    %  ln -s ~/CourseData/RNA_data/trinity_trinotate_tutorial/mini_humanX/* .
 
 
 
@@ -169,19 +161,18 @@ Examine the stringtie.gtf output:
 
     % head stringtie.gtf
 
-.
-
-    # stringtie -o stringtie.gtf alignments.hisat2.bam
-    # StringTie version 1.3.3b
-    minigenome	StringTie	transcript	47357	81576	1000	-	.	gene_id "STRG.1"; transcript_id "STRG.1.1"; cov "9.282775"; FPKM "3105.945557"; TPM "5972.818848";
-    minigenome	StringTie	exon	47357	47707	1000	-	.	gene_id "STRG.1"; transcript_id "STRG.1.1"; exon_number "1"; cov "3.742170";
-    minigenome	StringTie	exon	52409	52531	1000	-	.	gene_id "STRG.1"; transcript_id "STRG.1.1"; exon_number "2"; cov "9.910584";
-    minigenome	StringTie	exon	53825	53968	1000	-	.	gene_id "STRG.1"; transcript_id "STRG.1.1"; exon_number "3"; cov "14.663727";
-    minigenome	StringTie	exon	54834	54966	1000	-	.	gene_id "STRG.1"; transcript_id "STRG.1.1"; exon_number "4"; cov "15.149121";
-    minigenome	StringTie	exon	57510	57694	1000	-	.	gene_id "STRG.1"; transcript_id "STRG.1.1"; exon_number "5"; cov "14.646185";
-    minigenome	StringTie	exon	61377	61539	1000	-	.	gene_id "STRG.1"; transcript_id "STRG.1.1"; exon_number "6"; cov "8.676278";
-    minigenome	StringTie	exon	63586	63973	1000	-	.	gene_id "STRG.1"; transcript_id "STRG.1.1"; exon_number "7"; cov "9.924885";
-
+```
+# stringtie -o stringtie.gtf alignments.hisat2.bam
+# StringTie version 1.3.5
+minigenome	StringTie	transcript	36732	41779	1000	-	.	gene_id "STRG.1"; transcript_id "STRG.1.1"; cov "3.432668"; FPKM "1150.780029"; TPM "2182.717041";
+minigenome	StringTie	exon	36732	37082	1000	-	.	gene_id "STRG.1"; transcript_id "STRG.1.1"; exon_number "1"; cov "3.341223";
+minigenome	StringTie	exon	41667	41779	1000	-	.	gene_id "STRG.1"; transcript_id "STRG.1.1"; exon_number "2"; cov "3.716716";
+minigenome	StringTie	transcript	47357	81576	1000	-	.	gene_id "STRG.2"; transcript_id "STRG.2.1"; cov "9.523120"; FPKM "3192.565186"; TPM "6055.428711";
+minigenome	StringTie	exon	47357	47707	1000	-	.	gene_id "STRG.2"; transcript_id "STRG.2.1"; exon_number "1"; cov "4.632516";
+minigenome	StringTie	exon	52409	52531	1000	-	.	gene_id "STRG.2"; transcript_id "STRG.2.1"; exon_number "2"; cov "11.336511";
+minigenome	StringTie	exon	53825	53968	1000	-	.	gene_id "STRG.2"; transcript_id "STRG.2.1"; exon_number "3"; cov "14.663729";
+minigenome	StringTie	exon	54834	54966	1000	-	.	gene_id "STRG.2"; transcript_id "STRG.2.1"; exon_number "4"; cov "15.149121";
+```
 
 Notice that in addition to reconstructing transcripts, StringTie also provides expression values in TPM and FPKM values along with read coverage stats for the transcript and individual exons.
 
