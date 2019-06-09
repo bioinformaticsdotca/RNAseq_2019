@@ -692,7 +692,7 @@ TrinotateWeb is web-based software and runs locally on the same hardware we've b
 
     % cp -r $TRINOTATE_HOME trinotate
 
-    % ./trinotate/run_TrinotateWebserver.pl 8090
+    % ./trinotate/run_TrinotateWebserver.pl 8080 
 
 
 Now, visit the following URL in Google Chrome: <http://IPADDRESS:8090/cgi-bin/index.cgi>
