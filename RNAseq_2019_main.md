@@ -51,7 +51,7 @@ Coming soon
 
 *<font color="#827e9c">Malachi Griffith</font>* 
 
-[Lecture]()  
+[Lecture](https://drive.google.com/a/bioinformatics.ca/file/d/1186BZntz6h000Q0W9o-iDlRIh6dXzd_N/view?usp=sharing)  
 
 [Lab Practical: Connecting to the Cloud](http://bioinformaticsdotca.github.io/AWS_setup)
 
@@ -63,7 +63,7 @@ You can also download from here. [Mac/Linux certificate](http://main.oicrcbw.ca/
 
 *<font color="#827e9c">Malachi Griffith</font>* 
 
-[Lecture]()   
+[Lecture](https://drive.google.com/a/bioinformatics.ca/file/d/1hV3oE9aXM37C340PUfvRUN6WgFu-2_ST/view?usp=sharing)   
 
 ### Module 2 Lab Practical
 
@@ -86,13 +86,13 @@ You can also download from here. [Mac/Linux certificate](http://main.oicrcbw.ca/
 
 *<font color="#827e9c">Malachi Griffith</font>* 
 
-[Lecture]()
+[Lecture](https://drive.google.com/a/bioinformatics.ca/file/d/1w6uEFw_B9H0OYtE-6_rx3kwo7oXjxnw2/view?usp=sharing)
 
 ## Module 3: RNA-seq Alignment and Visualization Lab Practical
 
 *<font color="#827e9c">Malachi Griffith</font>* 
 
-[Lab Practical](https://drive.google.com/open?id=1CgEtVNY-B3-p0j-4CjGNvU0iwFetZlgE)
+[Lab Practical]()
 
   [Adapter Trim](https://rnabio.org/module-02-alignment/0002/02/01/Adapter_Trim/)
   
