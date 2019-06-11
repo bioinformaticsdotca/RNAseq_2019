@@ -53,7 +53,7 @@ Coming soon
 
 [Lecture](https://drive.google.com/a/bioinformatics.ca/file/d/1186BZntz6h000Q0W9o-iDlRIh6dXzd_N/view?usp=sharing)  
 
-[Lecture on Connecting to AWS](https://drive.google.com/a/bioinformatics.ca/file/d/197ZjfFMPK3Li8pjpOuIg2vNxL60sauO2/view?usp=sharing)   
+[Updated Lecture on Connecting to AWS](https://drive.google.com/a/bioinformatics.ca/file/d/197ZjfFMPK3Li8pjpOuIg2vNxL60sauO2/view?usp=sharing)   
 
 [Lab Practical: Connecting to the Cloud](http://bioinformaticsdotca.github.io/AWS_setup)
 
@@ -149,7 +149,7 @@ You can also download from here. [Mac/Linux certificate](http://main.oicrcbw.ca/
 
 *<font color="#827e9c">Obi Griffith</font>* 
 
-[Lecture]()
+[Lecture](https://drive.google.com/a/bioinformatics.ca/file/d/1yghOqfGKWn0uNAT33WVwDApGhJAVF0sa/view?usp=sharing)
 
 ## Integrated Assignment
 
@@ -169,7 +169,7 @@ For additional resources, tutorials, future directions, and more please refer to
 
 *<font color="#827e9c">Brian Haas</font>* 
 
-[Lecture]()  
+[Lecture](https://drive.google.com/a/bioinformatics.ca/file/d/1vUlg8j_-16fDHZmSh8JRTuf-KwZzDudG/view?usp=sharing)  
 
 [Bandage](https://rrwick.github.io/Bandage/)  
 
@@ -180,7 +180,7 @@ For additional resources, tutorials, future directions, and more please refer to
 
 *<font color="#827e9c">Brian Haas</font>* 
 
-[Lecture]()  
+[Lecture](https://drive.google.com/a/bioinformatics.ca/file/d/1q4mXy2812weKSwK62J5Uhpg4eNSF0vQ5/view?usp=sharing)  
 
 [Lab practical](https://bioinformaticsdotca.github.io/RNAseq_2019/Modules7and8/RNAseq_2019_Module8_lab.md)  
 
