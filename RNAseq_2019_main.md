@@ -69,7 +69,6 @@ You can also download from here. [Mac/Linux certificate](http://main.oicrcbw.ca/
 
 ### Module 2 Lab Practical
 
-[Lab practical]()
 
   [Installation](https://rnabio.org/module-00-setup/0000/08/01/Installation/)
   
@@ -94,7 +93,6 @@ You can also download from here. [Mac/Linux certificate](http://main.oicrcbw.ca/
 
 *<font color="#827e9c">Malachi Griffith</font>* 
 
-[Lab Practical]()
 
   [Adapter Trim](https://rnabio.org/module-02-alignment/0002/02/01/Adapter_Trim/)
   
@@ -129,7 +127,6 @@ You can also download from here. [Mac/Linux certificate](http://main.oicrcbw.ca/
  
 ## Module 4 Lab
 
-[Lab Practical]()
 
  [Expression](https://rnabio.org/module-03-expression/0003/02/01/Expression/)
  
