@@ -53,6 +53,8 @@ Coming soon
 
 [Lecture](https://drive.google.com/a/bioinformatics.ca/file/d/1186BZntz6h000Q0W9o-iDlRIh6dXzd_N/view?usp=sharing)  
 
+[Lecture on Connecting to AWS](https://drive.google.com/a/bioinformatics.ca/file/d/197ZjfFMPK3Li8pjpOuIg2vNxL60sauO2/view?usp=sharing)   
+
 [Lab Practical: Connecting to the Cloud](http://bioinformaticsdotca.github.io/AWS_setup)
 
 * We have set up instances on the Amazon cloud - one for each student. In order to log in to your instance, you will need a security certificate. The certificates will be uploaded to Slack. If you plan on using Linux or Mac OS X, Please use CBWRNA.pem; Otherwise if you plan on using Windows (with Putty), please use CBWRNA.ppk.
