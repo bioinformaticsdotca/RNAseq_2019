@@ -125,7 +125,7 @@ You can also download from here. [Mac/Linux certificate](http://main.oicrcbw.ca/
 
 *<font color="#827e9c">Obi Griffith</font>* 
 
-[Lecture]()
+[Lecture](https://drive.google.com/a/bioinformatics.ca/file/d/1ADz2-o3NfsVEH05P-NNHIK2ki6lLpNwU/view?usp=sharing)
  
 ## Module 4 Lab
 
@@ -140,6 +140,8 @@ You can also download from here. [Mac/Linux certificate](http://main.oicrcbw.ca/
 ## Module 5: Reference Free Alignment
 
 *<font color="#827e9c">Obi Griffith</font>* 
+
+[Lecture](https://drive.google.com/a/bioinformatics.ca/file/d/14R8lLOVgNqE7k3_nj56RnCniMTx70gj9/view?usp=sharing)   
 
 [Kallisto](https://rnabio.org/module-04-kallisto/0004/02/01/Alignment_Free_Kallisto/)  
 
