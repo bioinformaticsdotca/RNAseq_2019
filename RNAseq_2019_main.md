@@ -123,7 +123,12 @@ You can also download from here. [Mac/Linux certificate](http://main.oicrcbw.ca/
 
 *<font color="#827e9c">Obi Griffith</font>* 
 
-[Lecture](https://drive.google.com/a/bioinformatics.ca/file/d/1ADz2-o3NfsVEH05P-NNHIK2ki6lLpNwU/view?usp=sharing)
+[Lecture](https://drive.google.com/a/bioinformatics.ca/file/d/1ADz2-o3NfsVEH05P-NNHIK2ki6lLpNwU/view?usp=sharing)   
+
+[Updated Lecture 4-PartA](https://drive.google.com/a/bioinformatics.ca/file/d/1Y4fEFPiVI5jHoee5XuMHJGXWMbQCuYqE/view?usp=sharing)    
+[Updated Lecture 4-PartB](https://drive.google.com/a/bioinformatics.ca/file/d/1xlVxleCQSkZTNE2akUbGgg5SbplKEs6P/view?usp=sharing)    
+[Updated Lecture 4-PartC](https://drive.google.com/a/bioinformatics.ca/file/d/1BHwcHJNwLQSFIM2X3-XcHfUbLLF2HbAV/view?usp=sharing)    
+
  
 ## Module 4 Lab
 
