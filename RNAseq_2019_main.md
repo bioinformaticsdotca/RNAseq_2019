@@ -190,6 +190,8 @@ For additional resources, tutorials, future directions, and more please refer to
 
 ## Additional Optional Resources 
 
+[Lecture on Single Cell Seq](https://drive.google.com/a/bioinformatics.ca/file/d/1HLWTC9IL2Fqzzo6wy8QQsWIKuCWr8bZP/view?usp=sharing)
+
 Additional resources can be found on the [RNA-Seq wiki](https://github.com/griffithlab/rnaseq_tutorial/wiki/Resources).
 
 ***
