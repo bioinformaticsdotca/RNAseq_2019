@@ -196,7 +196,7 @@ Additional resources can be found on the [RNA-Seq wiki](https://github.com/griff
 
 ***
 
-Thank you for attending the Informatics for RNA-Seq Analysis workshop! Help us make this workshop better by filling out [our survey]()
+Thank you for attending the Informatics for RNA-Seq Analysis workshop! Help us make this workshop better by filling out [our survey](https://forms.gle/i4QWWLHQ3FbnfwYY6)
 
 ***
   
