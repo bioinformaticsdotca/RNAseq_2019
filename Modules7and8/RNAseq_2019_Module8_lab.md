@@ -27,7 +27,7 @@ The following details the steps involved in:
 
 Before we begin, set up your environment like so:
 
-    % source ~/CourseData/RNA_data/trinity_trinotate_tutorial_2018/environment.txt
+    % source ~/CourseData/RNA_data/trinity_trinotate_tutorial/environment.txt
 
 
 ## Create your workspace
@@ -44,7 +44,7 @@ There are paired-end FASTQ formatted Illlumina read files for each of the two co
 
 Copy all these data to your workspace like so:
 
-     %  cp -r ~/CourseData/RNA_data/trinity_trinotate_tutorial_2018/C_glabrata data
+     %  cp -r ~/CourseData/RNA_data/trinity_trinotate_tutorial/C_glabrata data
 
 
 
@@ -690,10 +690,12 @@ At this point, the Trinotate database should be fully populated and ready to be 
 
 TrinotateWeb is web-based software and runs locally on the same hardware we've been running all our computes (as opposed to your typical websites that you visit regularly, such as facebook).  Launch the mini webserver that drives the TrinotateWeb software like so:
 
-    % $TRINOTATE_HOME/run_TrinotateWebserver.pl 8080
+    % cp -r $TRINOTATE_HOME trinotate
+
+    % ./trinotate/run_TrinotateWebserver.pl 8080 
 
 
-Now, visit the following URL in Google Chrome: <http://localhost:8080/cgi-bin/index.cgi>
+Now, visit the following URL in Google Chrome: <http://IPADDRESS:8080/cgi-bin/index.cgi>
 
 You should see a web form like so:
 
