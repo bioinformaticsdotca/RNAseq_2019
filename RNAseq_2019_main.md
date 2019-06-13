@@ -186,6 +186,10 @@ For additional resources, tutorials, future directions, and more please refer to
 
 [Lab practical](https://bioinformaticsdotca.github.io/RNAseq_2019/Modules7and8/RNAseq_2019_Module8_lab.md)  
 
+## Post Workshop 
+
+Post workshop content for data sets, AWS image, tools and install instructions can be found [here](https://bioinformaticsdotca.github.io/RNAseq_2019_Post-Workshop)  
+
 ***  
 
 ## Additional Optional Resources 
