@@ -14,7 +14,9 @@ length: 3 days
 
 Welcome to Informatics for RNA-Seq Analysis 2019.
 
-The course schedule can be found [here](https://bioinformaticsdotca.github.io/RNAseq_2019_schedule).
+The course schedule can be found [here](https://bioinformaticsdotca.github.io/RNAseq_2019_schedule).    
+
+Meet your faculty [here](https://drive.google.com/a/bioinformatics.ca/file/d/1da3JtuTFxNUfZJPxG19fGt5S_rmSnHel/view?usp=sharing)    
 
 We are using Slack for discussion. Join the Slack channel.
 
