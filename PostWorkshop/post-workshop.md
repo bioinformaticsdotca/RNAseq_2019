@@ -1,6 +1,6 @@
 ---
 layout: workshop_main_3day
-permalink: /RNAseq_2019
+permalink: /RNAseq_2019_Post-Workshop
 title: RNA-Seq_Post-Workshop
 header1: Workshop Pages for Students
 header2: Informatics for RNA-Seq Analysis 2019
