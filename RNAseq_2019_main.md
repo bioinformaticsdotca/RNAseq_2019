@@ -175,7 +175,7 @@ For additional resources, tutorials, future directions, and more please refer to
 
 [Bandage](https://rrwick.github.io/Bandage/)  
 
-[Lab practical](https://bioinformaticsdotca.github.io/RNAseq_2019/RNAseq_2019_Module7_lab)  
+[Lab practical](https://bioinformaticsdotca.github.io/RNAseq_2019_Module7_lab)  
 
 
 ## Module 8: Functional Annotation and Analysis of Transcripts
@@ -184,7 +184,7 @@ For additional resources, tutorials, future directions, and more please refer to
 
 [Lecture](https://drive.google.com/a/bioinformatics.ca/file/d/1q4mXy2812weKSwK62J5Uhpg4eNSF0vQ5/view?usp=sharing)  
 
-[Lab practical](https://bioinformaticsdotca.github.io/RNAseq_2019/RNAseq_2019_Module8_lab)  
+[Lab practical](https://bioinformaticsdotca.github.io/RNAseq_2019_Module8_lab)  
 
 ## Post Workshop 
 
